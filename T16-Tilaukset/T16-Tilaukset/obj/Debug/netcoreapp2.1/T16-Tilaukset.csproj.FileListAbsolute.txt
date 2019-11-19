@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/bin/Debug/netcoreapp2.1/T16-Tilaukset.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/bin/Debug/netcoreapp2.1/T16-Tilaukset.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/bin/Debug/netcoreapp2.1/T16-Tilaukset.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/bin/Debug/netcoreapp2.1/T16-Tilaukset.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/bin/Debug/netcoreapp2.1/T16-Tilaukset.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/obj/Debug/netcoreapp2.1/T16-Tilaukset.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/obj/Debug/netcoreapp2.1/T16-Tilaukset.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/obj/Debug/netcoreapp2.1/T16-Tilaukset.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/obj/Debug/netcoreapp2.1/T16-Tilaukset.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/obj/Debug/netcoreapp2.1/T16-Tilaukset.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T16-Tilaukset/T16-Tilaukset/obj/Debug/netcoreapp2.1/T16-Tilaukset.pdb

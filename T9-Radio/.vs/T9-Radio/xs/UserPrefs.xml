@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0ABC61BA-48A5-460B-903B-DECB98A06CF5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T9-Radio/Radio.cs">
+    <Files>
+      <File FileName="T9-Radio/Program.cs" Line="26" Column="10" />
+      <File FileName="T9-Radio/Radio.cs" Line="46" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T9-Radio" expanded="True">
+            <Node name="T9-Radio" expanded="True">
+              <Node name="Radio.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.T9-Radio PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/bin/Debug/netcoreapp2.1/T19-Korttipakka.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/bin/Debug/netcoreapp2.1/T19-Korttipakka.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/bin/Debug/netcoreapp2.1/T19-Korttipakka.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/bin/Debug/netcoreapp2.1/T19-Korttipakka.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/bin/Debug/netcoreapp2.1/T19-Korttipakka.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/obj/Debug/netcoreapp2.1/T19-Korttipakka.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/obj/Debug/netcoreapp2.1/T19-Korttipakka.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/obj/Debug/netcoreapp2.1/T19-Korttipakka.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/obj/Debug/netcoreapp2.1/T19-Korttipakka.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/obj/Debug/netcoreapp2.1/T19-Korttipakka.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T19-Korttipakka/T19-Korttipakka/obj/Debug/netcoreapp2.1/T19-Korttipakka.pdb

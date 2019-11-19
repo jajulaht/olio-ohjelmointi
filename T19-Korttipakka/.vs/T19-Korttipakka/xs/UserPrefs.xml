@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3067BCA0-E169-49C6-B512-341542184E44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T19-Korttipakka/Korttipakka.cs">
+    <Files>
+      <File FileName="T19-Korttipakka/Program.cs" Line="12" Column="29" />
+      <File FileName="T19-Korttipakka/Korttipakka.cs" Line="62" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T19-Korttipakka" expanded="True">
+            <Node name="T19-Korttipakka" expanded="True">
+              <Node name="Korttipakka.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.T19-Korttipakka PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

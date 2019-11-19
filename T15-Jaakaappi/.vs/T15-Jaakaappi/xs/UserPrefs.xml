@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4F271489-2822-4B72-9105-CCA278D287B2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T15-Jaakaappi/Jaakaappi.cs">
+    <Files>
+      <File FileName="T15-Jaakaappi/Program.cs" Line="45" Column="36" />
+      <File FileName="T15-Jaakaappi/Jaakaappi.cs" Line="16" Column="56" />
+      <File FileName="T15-Jaakaappi/Elintarvike.cs" Line="8" Column="52" />
+      <File FileName="T15-Jaakaappi/Kiintea.cs" Line="9" Column="1" />
+      <File FileName="T15-Jaakaappi/Neste.cs" Line="14" Column="56" />
+      <File FileName="T15-Jaakaappi/Pakattu.cs" Line="14" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T15-Jaakaappi" expanded="True">
+            <Node name="T15-Jaakaappi" expanded="True">
+              <Node name="Jaakaappi.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.T15-Jaakaappi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

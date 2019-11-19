@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/bin/Debug/netcoreapp2.1/T3-Pesukone.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/bin/Debug/netcoreapp2.1/T3-Pesukone.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/bin/Debug/netcoreapp2.1/T3-Pesukone.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/bin/Debug/netcoreapp2.1/T3-Pesukone.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/bin/Debug/netcoreapp2.1/T3-Pesukone.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/obj/Debug/netcoreapp2.1/T3-Pesukone.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/obj/Debug/netcoreapp2.1/T3-Pesukone.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/obj/Debug/netcoreapp2.1/T3-Pesukone.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/obj/Debug/netcoreapp2.1/T3-Pesukone.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/obj/Debug/netcoreapp2.1/T3-Pesukone.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T3-Pesukone/T3-Pesukone/obj/Debug/netcoreapp2.1/T3-Pesukone.pdb

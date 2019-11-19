@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{BABF759F-6EB9-4CC4-8292-C7AE624D3AD7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T3-Pesukone/Program.cs">
+    <Files>
+      <File FileName="T3-Pesukone/Program.cs" Line="35" Column="33" />
+      <File FileName="T3-Pesukone/Pesukone.cs" Line="60" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T3-Pesukone" expanded="True">
+            <Node name="T3-Pesukone" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.T3-Pesukone PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

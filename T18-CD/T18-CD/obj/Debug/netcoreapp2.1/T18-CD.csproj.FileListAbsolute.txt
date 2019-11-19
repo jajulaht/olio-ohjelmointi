@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/bin/Debug/netcoreapp2.1/T18-CD.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/bin/Debug/netcoreapp2.1/T18-CD.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/bin/Debug/netcoreapp2.1/T18-CD.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/bin/Debug/netcoreapp2.1/T18-CD.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/bin/Debug/netcoreapp2.1/T18-CD.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/obj/Debug/netcoreapp2.1/T18-CD.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/obj/Debug/netcoreapp2.1/T18-CD.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/obj/Debug/netcoreapp2.1/T18-CD.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/obj/Debug/netcoreapp2.1/T18-CD.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/obj/Debug/netcoreapp2.1/T18-CD.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T18-CD/T18-CD/obj/Debug/netcoreapp2.1/T18-CD.pdb

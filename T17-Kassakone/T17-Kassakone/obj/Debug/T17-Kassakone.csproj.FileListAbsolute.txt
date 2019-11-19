@@ -1,0 +1,7 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T17-Kassakone/T17-Kassakone/bin/Debug/T17-Kassakone.exe.config
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T17-Kassakone/T17-Kassakone/bin/Debug/T17-Kassakone.exe
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T17-Kassakone/T17-Kassakone/bin/Debug/T17-Kassakone.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T17-Kassakone/T17-Kassakone/obj/Debug/T17-Kassakone.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T17-Kassakone/T17-Kassakone/obj/Debug/T17-Kassakone.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T17-Kassakone/T17-Kassakone/obj/Debug/T17-Kassakone.exe
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T17-Kassakone/T17-Kassakone/obj/Debug/T17-Kassakone.pdb

@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/bin/Debug/netcoreapp2.1/T10-Temperatures.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/bin/Debug/netcoreapp2.1/T10-Temperatures.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/bin/Debug/netcoreapp2.1/T10-Temperatures.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/bin/Debug/netcoreapp2.1/T10-Temperatures.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/bin/Debug/netcoreapp2.1/T10-Temperatures.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/obj/Debug/netcoreapp2.1/T10-Temperatures.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/obj/Debug/netcoreapp2.1/T10-Temperatures.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/obj/Debug/netcoreapp2.1/T10-Temperatures.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/obj/Debug/netcoreapp2.1/T10-Temperatures.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/obj/Debug/netcoreapp2.1/T10-Temperatures.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T10-Temperatures/T10-Temperatures/obj/Debug/netcoreapp2.1/T10-Temperatures.pdb

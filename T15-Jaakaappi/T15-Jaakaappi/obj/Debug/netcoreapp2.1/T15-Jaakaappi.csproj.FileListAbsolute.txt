@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/bin/Debug/netcoreapp2.1/T15-Jaakaappi.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/bin/Debug/netcoreapp2.1/T15-Jaakaappi.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/bin/Debug/netcoreapp2.1/T15-Jaakaappi.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/bin/Debug/netcoreapp2.1/T15-Jaakaappi.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/bin/Debug/netcoreapp2.1/T15-Jaakaappi.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/obj/Debug/netcoreapp2.1/T15-Jaakaappi.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/obj/Debug/netcoreapp2.1/T15-Jaakaappi.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/obj/Debug/netcoreapp2.1/T15-Jaakaappi.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/obj/Debug/netcoreapp2.1/T15-Jaakaappi.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/obj/Debug/netcoreapp2.1/T15-Jaakaappi.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T15-Jaakaappi/T15-Jaakaappi/obj/Debug/netcoreapp2.1/T15-Jaakaappi.pdb

@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/obj/Debug/netcoreapp2.1/T20-Sekoittaminen.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/obj/Debug/netcoreapp2.1/T20-Sekoittaminen.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/obj/Debug/netcoreapp2.1/T20-Sekoittaminen.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/obj/Debug/netcoreapp2.1/T20-Sekoittaminen.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/bin/Debug/netcoreapp2.1/T20-Sekoittaminen.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/bin/Debug/netcoreapp2.1/T20-Sekoittaminen.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/bin/Debug/netcoreapp2.1/T20-Sekoittaminen.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/bin/Debug/netcoreapp2.1/T20-Sekoittaminen.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/bin/Debug/netcoreapp2.1/T20-Sekoittaminen.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/obj/Debug/netcoreapp2.1/T20-Sekoittaminen.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T20-Sekoittaminen/T20-Sekoittaminen/obj/Debug/netcoreapp2.1/T20-Sekoittaminen.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6DB6AC1C-ECAE-4B58-A439-CF8F045F376B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T8-Tank/Tank.cs">
+    <Files>
+      <File FileName="T8-Tank/Tank.cs" Line="110" Column="30" />
+      <File FileName="T8-Tank/Program.cs" Line="31" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T8-Tank" expanded="True">
+            <Node name="T8-Tank" expanded="True">
+              <Node name="Tank.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.T8-Tank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/bin/Debug/netcoreapp2.1/T14-Latka.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/bin/Debug/netcoreapp2.1/T14-Latka.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/bin/Debug/netcoreapp2.1/T14-Latka.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/bin/Debug/netcoreapp2.1/T14-Latka.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/bin/Debug/netcoreapp2.1/T14-Latka.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/obj/Debug/netcoreapp2.1/T14-Latka.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/obj/Debug/netcoreapp2.1/T14-Latka.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/obj/Debug/netcoreapp2.1/T14-Latka.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/obj/Debug/netcoreapp2.1/T14-Latka.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/obj/Debug/netcoreapp2.1/T14-Latka.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T14-Latka/T14-Latka/obj/Debug/netcoreapp2.1/T14-Latka.pdb

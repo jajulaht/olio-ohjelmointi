@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B9E4AAD5-8FD0-4B28-9CAD-4B6340C1BDB8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T1-Auto/Auto.cs">
+    <Files>
+      <File FileName="T1-Auto/Auto.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T1-Auto" expanded="True">
+            <Node name="T1-Auto" expanded="True">
+              <Node name="Auto.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.T1-Auto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/bin/Debug/netcoreapp2.1/T9-Radio.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/bin/Debug/netcoreapp2.1/T9-Radio.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/bin/Debug/netcoreapp2.1/T9-Radio.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/bin/Debug/netcoreapp2.1/T9-Radio.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/bin/Debug/netcoreapp2.1/T9-Radio.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/obj/Debug/netcoreapp2.1/T9-Radio.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/obj/Debug/netcoreapp2.1/T9-Radio.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/obj/Debug/netcoreapp2.1/T9-Radio.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/obj/Debug/netcoreapp2.1/T9-Radio.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/obj/Debug/netcoreapp2.1/T9-Radio.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T9-Radio/T9-Radio/obj/Debug/netcoreapp2.1/T9-Radio.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{89022AC6-E344-449C-97B3-3F4EA720172E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T21-Kassajono/Program.cs">
+    <Files>
+      <File FileName="T21-Kassajono/Program.cs" Line="34" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T21-Kassajono" expanded="True">
+            <Node name="T21-Kassajono" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.T21-Kassajono PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

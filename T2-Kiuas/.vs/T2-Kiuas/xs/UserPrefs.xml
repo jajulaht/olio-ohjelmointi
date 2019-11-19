@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1700CA0E-FCE8-4A68-A488-B3039534A3E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.T2-Kiuas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="T2-Kiuas/T2-Kiuas.cs">
+    <Files>
+      <File FileName="T2-Kiuas/T2-Kiuas.cs" Line="11" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T2-Kiuas" expanded="True">
+            <Node name="T2-Kiuas" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

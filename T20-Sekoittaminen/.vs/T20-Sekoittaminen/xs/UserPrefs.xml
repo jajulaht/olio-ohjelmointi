@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{51A657AC-A61E-4B0D-B64B-77B0FFF6C43A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T20-Sekoittaminen/Program.cs">
+    <Files>
+      <File FileName="T20-Sekoittaminen/Program.cs" Line="12" Column="21" />
+      <File FileName="T20-Sekoittaminen/Korttipakka.cs" Line="52" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T20-Sekoittaminen" expanded="True">
+            <Node name="T20-Sekoittaminen" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.T20-Sekoittaminen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

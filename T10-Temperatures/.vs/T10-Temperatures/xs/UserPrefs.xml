@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BB9F7C10-D001-4CAF-884C-7546F6460E4C}|Default">
+  <MonoDevelop.Ide.ItemProperties.T10-Temperatures PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="T10-Temperatures/Program.cs">
+    <Files>
+      <File FileName="T10-Temperatures/Program.cs" Line="24" Column="83" />
+      <File FileName="T10-Temperatures/Temperature.cs" Line="12" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T10-Temperatures" expanded="True">
+            <Node name="T10-Temperatures" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

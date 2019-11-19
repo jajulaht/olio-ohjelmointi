@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/obj/Debug/netcoreapp2.1/T21-Kassajono.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/obj/Debug/netcoreapp2.1/T21-Kassajono.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/obj/Debug/netcoreapp2.1/T21-Kassajono.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/obj/Debug/netcoreapp2.1/T21-Kassajono.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/bin/Debug/netcoreapp2.1/T21-Kassajono.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/bin/Debug/netcoreapp2.1/T21-Kassajono.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/bin/Debug/netcoreapp2.1/T21-Kassajono.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/bin/Debug/netcoreapp2.1/T21-Kassajono.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/bin/Debug/netcoreapp2.1/T21-Kassajono.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/obj/Debug/netcoreapp2.1/T21-Kassajono.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T21-Kassajono/T21-Kassajono/obj/Debug/netcoreapp2.1/T21-Kassajono.pdb

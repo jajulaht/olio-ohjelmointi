@@ -1,0 +1,7 @@
+C:\Work\olio-tehtavat\T1-Auto\T1-Auto\bin\Debug\T1-Auto.exe.config
+C:\Work\olio-tehtavat\T1-Auto\T1-Auto\bin\Debug\T1-Auto.exe
+C:\Work\olio-tehtavat\T1-Auto\T1-Auto\bin\Debug\T1-Auto.pdb
+C:\Work\olio-tehtavat\T1-Auto\T1-Auto\obj\Debug\T1-Auto.csprojResolveAssemblyReference.cache
+C:\Work\olio-tehtavat\T1-Auto\T1-Auto\obj\Debug\T1-Auto.csproj.CoreCompileInputs.cache
+C:\Work\olio-tehtavat\T1-Auto\T1-Auto\obj\Debug\T1-Auto.exe
+C:\Work\olio-tehtavat\T1-Auto\T1-Auto\obj\Debug\T1-Auto.pdb

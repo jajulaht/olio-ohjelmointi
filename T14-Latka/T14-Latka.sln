@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T14-Latka", "T14-Latka\T14-Latka.csproj", "{CE901D1F-9F8C-48CA-8127-33C99F08CE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE901D1F-9F8C-48CA-8127-33C99F08CE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE901D1F-9F8C-48CA-8127-33C99F08CE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE901D1F-9F8C-48CA-8127-33C99F08CE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE901D1F-9F8C-48CA-8127-33C99F08CE41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

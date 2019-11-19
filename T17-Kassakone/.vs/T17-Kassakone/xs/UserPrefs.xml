@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{D7B3319E-81A4-46FA-87DF-D5328A74F8A2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T17-Kassakone/Kassa.cs">
+    <Files>
+      <File FileName="T17-Kassakone/Program.cs" Line="14" Column="36" />
+      <File FileName="T17-Kassakone/Kassa.cs" Line="31" Column="2" />
+      <File FileName="T17-Kassakone/PaidWithCash.cs" Line="16" Column="25" />
+      <File FileName="T17-Kassakone/PaidWithCard.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T17-Kassakone" expanded="True">
+            <Node name="T17-Kassakone" expanded="True">
+              <Node name="Kassa.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.T17-Kassakone PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

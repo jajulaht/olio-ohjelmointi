@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/bin/Debug/netcoreapp2.1/T4-Televisio.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/bin/Debug/netcoreapp2.1/T4-Televisio.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/bin/Debug/netcoreapp2.1/T4-Televisio.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/bin/Debug/netcoreapp2.1/T4-Televisio.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/bin/Debug/netcoreapp2.1/T4-Televisio.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/obj/Debug/netcoreapp2.1/T4-Televisio.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/obj/Debug/netcoreapp2.1/T4-Televisio.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/obj/Debug/netcoreapp2.1/T4-Televisio.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/obj/Debug/netcoreapp2.1/T4-Televisio.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/obj/Debug/netcoreapp2.1/T4-Televisio.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T4-Televisio/T4-Televisio/obj/Debug/netcoreapp2.1/T4-Televisio.pdb

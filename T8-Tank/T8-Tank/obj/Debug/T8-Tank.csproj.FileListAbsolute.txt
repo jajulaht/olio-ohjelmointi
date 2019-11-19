@@ -1,0 +1,7 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T8-Tank/T8-Tank/bin/Debug/T8-Tank.exe.config
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T8-Tank/T8-Tank/bin/Debug/T8-Tank.exe
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T8-Tank/T8-Tank/bin/Debug/T8-Tank.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T8-Tank/T8-Tank/obj/Debug/T8-Tank.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T8-Tank/T8-Tank/obj/Debug/T8-Tank.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T8-Tank/T8-Tank/obj/Debug/T8-Tank.exe
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T8-Tank/T8-Tank/obj/Debug/T8-Tank.pdb

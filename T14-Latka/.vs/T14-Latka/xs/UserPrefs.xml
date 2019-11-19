@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CE901D1F-9F8C-48CA-8127-33C99F08CE41}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T14-Latka/Seura.cs">
+    <Files>
+      <File FileName="T14-Latka/Program.cs" Line="108" Column="50" />
+      <File FileName="T14-Latka/Pelaaja.cs" Line="18" Column="58" />
+      <File FileName="T14-Latka/Seura.cs" Line="18" Column="42" />
+      <File FileName="T14-Latka/Liiga.cs" Line="6" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T14-Latka" expanded="True">
+            <Node name="T14-Latka" expanded="True">
+              <Node name="Seura.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.T14-Latka PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

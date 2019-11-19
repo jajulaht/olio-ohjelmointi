@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A2265CE1-8938-49A3-8DAE-3C4BC0F52AE3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T23-LajitteluA/Program.cs">
+    <Files>
+      <File FileName="T23-LajitteluA/Program.cs" Line="71" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="T23-LajitteluA" expanded="True">
+            <Node name="T23-LajitteluA" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.T23-LajitteluA PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/bin/Debug/netcoreapp2.1/T23-LajitteluB.deps.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/bin/Debug/netcoreapp2.1/T23-LajitteluB.runtimeconfig.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/bin/Debug/netcoreapp2.1/T23-LajitteluB.runtimeconfig.dev.json
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/bin/Debug/netcoreapp2.1/T23-LajitteluB.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/bin/Debug/netcoreapp2.1/T23-LajitteluB.pdb
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/obj/Debug/netcoreapp2.1/T23-LajitteluB.csprojAssemblyReference.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/obj/Debug/netcoreapp2.1/T23-LajitteluB.csproj.CoreCompileInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/obj/Debug/netcoreapp2.1/T23-LajitteluB.AssemblyInfoInputs.cache
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/obj/Debug/netcoreapp2.1/T23-LajitteluB.AssemblyInfo.cs
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/obj/Debug/netcoreapp2.1/T23-LajitteluB.dll
+/Users/janne.lahtinen/Documents/Opiskelu/JAMK/olio-ohjelmointi/olio-tehtavat/T23-LajitteluB/T23-LajitteluB/obj/Debug/netcoreapp2.1/T23-LajitteluB.pdb
